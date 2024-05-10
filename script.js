@@ -4,8 +4,8 @@ fugitivo.addEventListener('mouseover',(e)=>{
 
     if(e){
         
-        fugitivo.style.backgroundColor = "green"
-        alert('EU TE AMO MUITO IARA')
+        
+        
         fugitivo.style.top= pula()+'px'
         fugitivo.style.left = pula()+'px'
         
